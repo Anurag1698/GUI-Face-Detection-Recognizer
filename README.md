@@ -59,6 +59,9 @@ Detect and recognize faces with confidence levels and display user names.
     - Click Detect Faces to start real-time face recognition using the webcam.
     - The system will display recognized faces with their names and confidence levels.
 
+## Screenshots
+![Filling the details of the user](https://github.com/Anurag1698/GUI-Face-Detection-Recognizer/blob/4fd0a5eeda0700b1110c2077a7c0dbef02315d60/screenshots/Fill%20Details.png)
+
 ## Notes
 - Ensure your MySQL server is running and accessible with the credentials specified in the code.
 - The captured face images are stored in the data folder, and the trained classifier is saved as classifier.xml.
