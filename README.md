@@ -60,7 +60,15 @@ Detect and recognize faces with confidence levels and display user names.
     - The system will display recognized faces with their names and confidence levels.
 
 ## Screenshots
+### Filling the details of the user:
 ![Filling the details of the user](https://github.com/Anurag1698/GUI-Face-Detection-Recognizer/blob/4fd0a5eeda0700b1110c2077a7c0dbef02315d60/screenshots/Fill%20Details.png)
+### Generating the dataset of the user:
+![Generating the dataset of the user](https://github.com/Anurag1698/GUI-Face-Detection-Recognizer/blob/4fd0a5eeda0700b1110c2077a7c0dbef02315d60/screenshots/Generating%20Dataset.png)
+### Training the model on the generated dataset:
+![Training the model on the generated dataset](https://github.com/Anurag1698/GUI-Face-Detection-Recognizer/blob/8e536e7fa9799d341d8c1875f6613289d373b2b2/screenshots/Training%20Dataset.png)
+### Detecting the faces and displaying the name along with the confidence level:
+![Detecting the faces and displaying the name along with the confidence level](https://github.com/Anurag1698/GUI-Face-Detection-Recognizer/blob/8e536e7fa9799d341d8c1875f6613289d373b2b2/screenshots/Detection1.png)
+![Detecting the faces and displaying the name along with the confidence level](https://github.com/Anurag1698/GUI-Face-Detection-Recognizer/blob/8e536e7fa9799d341d8c1875f6613289d373b2b2/screenshots/Detection2.png)
 
 ## Notes
 - Ensure your MySQL server is running and accessible with the credentials specified in the code.
